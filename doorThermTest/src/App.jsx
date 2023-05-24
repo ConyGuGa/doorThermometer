@@ -4,7 +4,7 @@ import { OpenDoor } from './components/doorComponents/openDoor'
 import { CloseDoor } from './components/doorComponents/closeDoor'
 
 function App() {
-  const [count, setCount] = useState(0)
+  
   const [openDoor, setOpenDoor] = useState(true)
 
   return (
