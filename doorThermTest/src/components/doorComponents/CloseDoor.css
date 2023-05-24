@@ -1,0 +1,50 @@
+.CloseDoor-FrameDoor {
+
+    box-sizing: border-box;
+    position: absolute;
+    top: 250px;
+    left: 250px;
+    width: 236px;
+    height: 379.03px;
+    background: #00F0FF;
+    border: 4px solid #000000;
+    box-shadow: inset 17px 17px 4px rgba(0, 0, 0, 0.25);
+
+}
+
+.CloseDoor-DoorPlane {
+
+    box-sizing: border-box;
+    position: absolute;
+    top: 18px;
+    left: 6px;
+    width: 214px;
+    height: 357px;
+    background: #00F0FF;
+    border: 4px solid #000000;
+}
+
+.CloseDoor-BasePommelClose {
+
+    position: absolute;
+    top: 270px;
+    left: 260px;
+    width: 36.47px;
+    height: 36.47px;
+
+    background: linear-gradient(0deg, rgba(142, 142, 147, 0.2), rgba(142, 142, 147, 0.2)), #D8D8D8;
+    box-shadow: 2px 4px 4px rgba(151, 151, 151, 0.7);
+}
+
+.CloseDoor-KnobPommelClose {
+
+    position: absolute;
+    top: 270px;
+    left: 260px;
+    width: 25.03px;
+    height: 25.03px;
+
+    background: linear-gradient(0deg, rgba(142, 142, 147, 0.2), rgba(142, 142, 147, 0.2)), #D8D8D8;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25), inset 2px 4px 4px #979797;
+
+}
